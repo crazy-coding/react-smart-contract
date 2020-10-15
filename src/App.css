@@ -1,0 +1,30 @@
+@media (maxWidth: '720px') {
+  .nomobileflex {display: block !important;}
+  .onlypcandtablet {display: none;}
+  .mob145{width: 145px;}
+}
+
+@media (maxWidth: '1999px') {
+  .onlypc {
+    display: none;
+  }
+}
+
+
+
+.day{background: linear-gradient(180deg, #E9EDF0 0%, rgba(176, 235, 210, 0.26) 0.01%, rgba(233, 237, 240, 0.16) 94.17%, rgba(233, 237, 240, 0) 127.36%) !important;}
+.day .MuiPaper-root{background: linear-gradient(134.17deg, #F1F8FB 4.98%, #F1F8FB 94.88%) !important;}
+
+.day .longbutton {box-shadow: -12px -12px 20px rgba(255, 255, 255, 0.8), 10px 10px 24px rgba(166, 180, 200, 0.7);border: 0.5px solid #F0F8FB;background: linear-gradient(134.17deg, #F1F8FB 4.98%, #F1F8FB 94.88%) !important;}
+.day .longbutton h3{color:#686868 !important;}
+.day .longbutton h4{color:#686868 !important;}
+.day .smallbutton {box-shadow: -5px -5px 20px #FFFFFF, 5px 5px 20px rgba(174, 174, 192, 0.5);background: linear-gradient(134.17deg, #F1F8FB 4.98%, #F1F8FB 94.88%) !important;}
+.day .smallbutton h4{color:#686868 !important;}
+.day .field {background: #F8FAFA !important;box-shadow: inset 1px 1px 2px #BFC9D7, inset -1px -1px 2px #FFFFFF;}
+.day .field h2{color:#000000 !important;}
+.day .field h4{color:#000000 !important;}
+.day .dlink{color:#000000 !important;}
+.day .imageicon{background: #F1F8FB !important;box-shadow: inset -12.446px -12.446px 31.1151px #FAFCFC, inset 12.446px 12.446px 31.1151px #C8D2DE !important;}
+
+
+.night .MuiPaper-root{background: #2C2F33 none repeat scroll 0% 0% !important;}
